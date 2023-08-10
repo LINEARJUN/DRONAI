@@ -582,7 +582,7 @@ $ yarn start
           width="100%" height="100%">
       </td>
       <td width="100" align="center">김준영</td>
-      <td width="200" align="center">TEAM LEADER<br>Client Developer</td>
+      <td width="200" align="center">TEAM LEADER<br>Client and Full stack Developer<br>Including algo, logic, simulation and more</td>
       <td width="200" align="center">admin@linearjun.com</td>
       <td width="200" align="center">
         <a href="https://github.com/linearjun" target="_blank">
