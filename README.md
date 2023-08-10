@@ -62,7 +62,7 @@
       <a href="https://youtu.be/ji8bJF0EvwM"><b>소개 영상 보기</b></a>
     </td>
     <td align="center">
-      <a href="https://osamhack2021.github.io/app_web_dronai_62bn"><b>시뮬레이션 다운로드</b></a>
+      <a href="https://github.com/LINEARJUN/DRONAI/raw/main/result/Simulation.zip"><b>시뮬레이션 다운로드</b></a>
     </td>
   </tr>
 </table>
