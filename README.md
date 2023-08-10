@@ -76,7 +76,7 @@
         <a />
     </td>
     <td>
-      <a href="https://dronai.notion.site/FINAL-REPORT-afb579ec87384cbda0c0b6cc2534e861" target="_blank">
+      <a href="https://linearjun.notion.site/linearjun/DRONAI-b6ebac08b6904f10b865f9347c263cb6" target="_blank">
         <img style="width:460px;"
           src="https://user-images.githubusercontent.com/36218321/138035698-ed096fd1-1a88-484c-a76e-fd7d7ee706e2.png">
       </a>
@@ -112,7 +112,7 @@
       <a href="https://dronai.gitbook.io/dronai/"><b>프로젝트 Documentation 보기</b></a>
     </td>
     <td align="center">
-      <a href="https://dronai.notion.site/dronai/DRONAI-44534bc31aac4efaa2b24e3480d71581"><b>협업 기록 및 전체 작업 보기</b></a>
+      <a href="https://linearjun.notion.site/290c3b40b26b49f688107744e5bcc23e?v=caedb2370e354be884639176dd2c84d6"><b>협업 기록 및 전체 작업 보기</b></a>
     </td>
   </tr>
 </table>
