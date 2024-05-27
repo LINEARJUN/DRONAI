@@ -87,7 +87,7 @@
       <a href="https://dronai.linearjun.com"><b>웹 대시보드 접속하기</b></a>
     </td>
     <td align="center">
-      <a href="https://linearjun.notion.site/DRONAI-d49c4e55665a4cea814809abf569337f?pvs=4"><b>프로젝트 보고서 보기</b></a>
+      <a href="https://linearjun.notion.site/DRONAI-d49c4e55665a4cea814809abf569337f"><b>프로젝트 보고서 보기</b></a>
     </td>
   </tr>
 </table>
