@@ -76,7 +76,7 @@
         <a />
     </td>
     <td>
-      <a href="https://linearjun.notion.site/linearjun/DRONAI-b6ebac08b6904f10b865f9347c263cb6" target="_blank">
+      <a href="https://linearjun.notion.site/DRONAI-d49c4e55665a4cea814809abf569337f" target="_blank">
         <img style="width:460px;"
           src="https://user-images.githubusercontent.com/36218321/138035698-ed096fd1-1a88-484c-a76e-fd7d7ee706e2.png">
       </a>
